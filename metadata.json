@@ -1,0 +1,6 @@
+{
+  "name": "AppGrade AI - Student App Review & Sheets Tracker",
+  "description": "Student AI Studio app submission portal and instructor dashboard with AI-powered scoring, rubrics, feedback, and automated Google Sheets tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
